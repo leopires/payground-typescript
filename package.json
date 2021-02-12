@@ -1,0 +1,11 @@
+{
+  "name": "playground-typescript",
+  "version": "0.0.1",
+  "description": "TypeScript's Playground to learn and practice language features.",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "author": "Leonardo Pires",
+  "license": "MIT"
+}
