@@ -2,8 +2,11 @@
   "name": "playground-typescript",
   "version": "0.0.1",
   "description": "TypeScript's Playground to learn and practice language features.",
-  "main": "index.js",
-  "scripts": {},
+  "main": "./dist/main.js",
+  "scripts": {
+    "start": "node ./dist/main.js",
+    "build": "./node_modules/.bin/gulp build"
+  },
   "author": "Leonardo Pires",
   "license": "MIT",
   "devDependencies": {
